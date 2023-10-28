@@ -27,4 +27,4 @@ where A contains images of pre-phase, B contains images of post-phase.
 
 The LEVIR-CC dataset contains 10077 pairs of bi-temporal remote sensing images and 50385 sentences describing the differences between images.
 Some examples of our dataset are as follows:
-![dataset_example](Example/dataset_example.png)
+![dataset_example](https://github.com/Chen-Yang-Liu/RSICC/blob/main/Example/dataset_example.png)
