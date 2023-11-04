@@ -1,7 +1,10 @@
 <div align="center">
-<h1><a href="https://ieeexplore.ieee.org/document/9934924">LEVIR_CC Dataset</a></h1>
+<h1><a href="https://ieeexplore.ieee.org/document/9934924">LEVIR-CC Dataset</a></h1>
 </div>
 A Large Dataset for Remote Sensing Image Change Captioning
+
+## Paper Source
+[[paper](https://ieeexplore.ieee.org/document/9934924)] and [[page](https://github.com/Chen-Yang-Liu/RSICC)]
 
 
 ## LEVIR-CC Dataset 
