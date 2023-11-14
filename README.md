@@ -4,7 +4,7 @@
 A Large Dataset for Remote Sensing Image Change Captioning
 
 ## Paper Source
-[[paper](https://ieeexplore.ieee.org/document/9934924)] and [[page](https://github.com/Chen-Yang-Liu/RSICC)]
+[[paper](https://ieeexplore.ieee.org/document/9934924)] and [[code page](https://github.com/Chen-Yang-Liu/RSICC)]
 
 
 ## LEVIR-CC Dataset 
