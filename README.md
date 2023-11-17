@@ -28,6 +28,12 @@ path to LEVIR_CC_dataset:
                   │  ├─B
 ```
 where A contains images of pre-phase, B contains images of post-phase.
+- **Dataset mean and variance:**
+  
+| Folder | R_mean  | G_mean| B_mean | R_var |   G_var   |   B_var  |
+| -------- | :------------: | :--------: | :---------: | :------: | :------: | :------: |
+| A of LEVIR_CC | 0.44152 | 0.43863 | 0.37418 | 0.17623 | 0.16578 | 0.15337 |
+| B of LEVIR_CC | 0.33992 | 0.33383 | 0.28561 | 0.13035 | 0.12678 | 0.11959 |
 
 The LEVIR-CC dataset contains **10,077** pairs of bi-temporal remote sensing images and **50,385** sentences describing the differences between images.
 ![dataset_example](https://github.com/Chen-Yang-Liu/RSICC/blob/main/Example/num.png)
