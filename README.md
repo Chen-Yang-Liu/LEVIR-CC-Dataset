@@ -4,7 +4,8 @@
 A Large Dataset for Remote Sensing Image Change Captioning
 
 ## Paper Source
-[[paper](https://ieeexplore.ieee.org/document/9934924)] and [[code page](https://github.com/Chen-Yang-Liu/RSICC)]
+- [[Remote sensing image change captioning with dual-branch transformers: A new method and a large scale dataset](https://ieeexplore.ieee.org/document/9934924)] and [[code page](https://github.com/Chen-Yang-Liu/RSICC)]
+- [[Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis](https://arxiv.org/abs/2403.19646)] and [[code page](https://github.com/Chen-Yang-Liu/Change-Agents)]
 
 
 ## LEVIR-CC Dataset 
