@@ -1,7 +1,7 @@
 <div align="center">
 <h1><a href="https://ieeexplore.ieee.org/document/9934924">LEVIR-CC Dataset & LEVIR-MCI Dataset</a></h1>
 </div>
-A Large Dataset for Remote Sensing Image Change Captioning
+Dataset for Remote Sensing Image Change Captioning and Change Detection
 
 ## Paper Source
 - **LEVIR-CC: A Large Dataset for Remote Sensing Image Change Captioning.** [[Paper](https://ieeexplore.ieee.org/document/9934924)] [[code](https://github.com/Chen-Yang-Liu/RSICC)]
