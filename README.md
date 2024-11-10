@@ -38,10 +38,13 @@ where A contains images of pre-phase, B contains images of post-phase.
 | ALL | 0.39073 | 0.38623 | 0.32989 | 0.15329 | 0.14628 | 0.13648 |
 
 
-The LEVIR-CC dataset contains **10,077** pairs of bi-temporal remote sensing images and **50,385** sentences describing the differences between images.
-![dataset_example](https://github.com/Chen-Yang-Liu/RSICC/blob/main/Example/num.png)
-![image](https://github.com/user-attachments/assets/996d4838-4ab9-4d3d-ac09-7e82f0fe6b73)
-Some examples of our dataset are as follows:
+- The LEVIR-CC dataset contains **10,077** pairs of bi-temporal remote sensing images and **50,385** sentences describing the differences between images:
+
+  ![dataset_example](https://github.com/Chen-Yang-Liu/RSICC/blob/main/Example/num.png)
+
+  ![image](https://github.com/user-attachments/assets/996d4838-4ab9-4d3d-ac09-7e82f0fe6b73)
+
+- Some examples of our dataset are as follows:
 ![dataset_example](https://github.com/Chen-Yang-Liu/RSICC/blob/main/Example/dataset_example.png)
 
 
@@ -49,5 +52,8 @@ Some examples of our dataset are as follows:
 ## LEVIR- MCI Dataset
 - The dataset contains bi-temporal images as well as diverse change detection masks and descriptive sentences. It provides a crucial data foundation for exploring multi-task learning for change detection and change captioning.
 - Download link (https://github.com/Chen-Yang-Liu/Change-Agent)
-Some examples of our dataset are as follows:
-![dataset_example](https://github.com/Chen-Yang-Liu/Change-Agent/blob/main/resource/dataset.png)
+
+  ![image](https://github.com/user-attachments/assets/e515a860-2d00-4819-9a87-c666ac0584f9)
+
+- Some examples of our dataset are as follows:
+  ![dataset_example](https://github.com/Chen-Yang-Liu/Change-Agent/blob/main/resource/dataset.png)
