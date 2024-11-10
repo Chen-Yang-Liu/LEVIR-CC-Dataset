@@ -40,8 +40,11 @@ where A contains images of pre-phase, B contains images of post-phase.
 
 The LEVIR-CC dataset contains **10,077** pairs of bi-temporal remote sensing images and **50,385** sentences describing the differences between images.
 ![dataset_example](https://github.com/Chen-Yang-Liu/RSICC/blob/main/Example/num.png)
+![image](https://github.com/user-attachments/assets/996d4838-4ab9-4d3d-ac09-7e82f0fe6b73)
 Some examples of our dataset are as follows:
 ![dataset_example](https://github.com/Chen-Yang-Liu/RSICC/blob/main/Example/dataset_example.png)
+
+
 
 ## LEVIR- MCI Dataset
 - The dataset contains bi-temporal images as well as diverse change detection masks and descriptive sentences. It provides a crucial data foundation for exploring multi-task learning for change detection and change captioning.
