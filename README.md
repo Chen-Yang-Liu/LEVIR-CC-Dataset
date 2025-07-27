@@ -3,6 +3,9 @@
 </div>
 Dataset for Remote Sensing Image Change Captioning and Change Detection
 
+## News:
+🔥**Remote Sensing Spatio-Temporal Vision-Language Models: A Comprehensive Survey**: [[Paper](https://arxiv.org/abs/2412.02573)] [[Github](https://github.com/Chen-Yang-Liu/Awesome-RS-SpatioTemporal-VLMs)]
+
 ## Paper Source
 - **LEVIR-CC: A Large Dataset for Remote Sensing Image Change Captioning.** [[Paper](https://ieeexplore.ieee.org/document/9934924)] [[code](https://github.com/Chen-Yang-Liu/RSICC)]
 - **LEVIR-MCI: A Large Dataset for exploring multi-task learning for change detection and change captioning.** [[Paper](https://arxiv.org/abs/2403.19646)] [[code](https://github.com/Chen-Yang-Liu/Change-Agents)]
